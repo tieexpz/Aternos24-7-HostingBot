@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "ChaTie999.aternos.me",
+    "port": 16604,
     "version": "",
     "try-creative": false
   },
@@ -32,7 +32,6 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
         "I like to play Minecraft!"
       ]
     },
